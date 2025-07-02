@@ -1,1 +1,1 @@
-Transforms an OLTP schema for a bookstore into a dimensional data warehouse using Star and Snowflake schemas. Also includes SQL aggregation logic.
+Utilizes Tableau to merge two datasets and create an insightful bar chart and heat map showing population distribution by region and country.
