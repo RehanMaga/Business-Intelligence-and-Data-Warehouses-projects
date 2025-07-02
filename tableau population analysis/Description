@@ -1,0 +1,1 @@
+Transforms an OLTP schema for a bookstore into a dimensional data warehouse using Star and Snowflake schemas. Also includes SQL aggregation logic.
